@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/QbaExchangeFrontend/static/css/main.c85f35cd.chunk.css",
+    "main.js": "/QbaExchangeFrontend/static/js/main.3cba68aa.chunk.js",
+    "main.js.map": "/QbaExchangeFrontend/static/js/main.3cba68aa.chunk.js.map",
+    "runtime-main.js": "/QbaExchangeFrontend/static/js/runtime-main.86b49574.js",
+    "runtime-main.js.map": "/QbaExchangeFrontend/static/js/runtime-main.86b49574.js.map",
+    "static/js/2.48b81ed8.chunk.js": "/QbaExchangeFrontend/static/js/2.48b81ed8.chunk.js",
+    "static/js/2.48b81ed8.chunk.js.map": "/QbaExchangeFrontend/static/js/2.48b81ed8.chunk.js.map",
+    "index.html": "/QbaExchangeFrontend/index.html",
+    "static/css/main.c85f35cd.chunk.css.map": "/QbaExchangeFrontend/static/css/main.c85f35cd.chunk.css.map",
+    "static/js/2.48b81ed8.chunk.js.LICENSE.txt": "/QbaExchangeFrontend/static/js/2.48b81ed8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86b49574.js",
+    "static/js/2.48b81ed8.chunk.js",
+    "static/css/main.c85f35cd.chunk.css",
+    "static/js/main.3cba68aa.chunk.js"
+  ]
+}
